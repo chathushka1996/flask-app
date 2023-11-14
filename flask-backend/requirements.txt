@@ -1,0 +1,10 @@
+Flask
+flask_pymongo
+python-dotenv
+Requests
+numpy
+layernext-beta
+pymilvus
+scikit-learn
+tqdm
+matplotlib
